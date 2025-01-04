@@ -1,10 +1,9 @@
-p{
-    color: red;
-}
-h2{
+#imjamam{
     color: blueviolet;
 }
-span{
-    font-size: 30px;
-    color: yellowgreen;
+.imjamam{
+    color: red;
+}
+.hossain{
+    font : bold;
 }
